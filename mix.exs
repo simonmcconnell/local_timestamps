@@ -26,10 +26,7 @@ defmodule LocalTimestamps.MixProject do
       files: ["lib", "mix.exs", "README.md", "LICENSE.md"],
       maintainers: ["Simon McConnell"],
       license: ["MIT"],
-      links: %{
-        ChangeLog: "https://github.com/simonmcconnell/local_timestamps/blob/master/CHANGELOG.md",
-        GitHub: "https://github.com/simonmcconnell/local_timestamps"
-      }
+      links: %{GitHub: "https://github.com/simonmcconnell/local_timestamps"}
     ]
   end
 
